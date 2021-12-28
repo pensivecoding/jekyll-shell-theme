@@ -1,7 +1,7 @@
 <img src="assets/theme_logo.svg" class="detail_header">
 
 # jekyll-shell-theme
-
+ill use you, one day :)
 **Jekyll Shell Theme** is a light-weight customizable one-column jekyll theme that gives off:
 
 - Hackery Vibes
